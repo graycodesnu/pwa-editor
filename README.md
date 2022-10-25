@@ -1,7 +1,7 @@
 # pwa-editor
 
 ## Introduction
-This project is a result of our bootcamp's week 1* homework assignment. Students were expected to create notes or code snippets with or without an internet connection. The project repository can be found [here](https://github.com/graycodesnu/pwa-editor).
+This project is a result of our bootcamp's week 19 homework assignment. Students were expected to create notes or code snippets with or without an internet connection. The project repository can be found [here](https://github.com/graycodesnu/pwa-editor).
 
 ![]()
 
